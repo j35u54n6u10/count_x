@@ -1,3 +1,9 @@
+# Install venv
+
+
+# Packages requires
+requirements.txt
+
 # Flet app
 
 A simple Flet app.
